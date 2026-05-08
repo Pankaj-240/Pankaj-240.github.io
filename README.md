@@ -1,2 +1,11 @@
-# Pankaj-240.github.io
-Frontend developer portfolio showcasing projects and skills.
+# Pankaj Bisht Portfolio
+
+Personal portfolio website showcasing my projects, skills, and learning journey in web development.
+
+## Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+
+## Live Website
+https://pankaj-240.github.io
